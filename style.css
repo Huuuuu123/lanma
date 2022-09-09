@@ -23,7 +23,7 @@
     height:3%;
     top:70%;
     left: 55%;
-    font-size:14px;
+    font-size:calc(1.5vh + 1vw);
     color:white;
     font-weight:1000
 }
